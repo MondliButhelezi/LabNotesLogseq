@@ -1,0 +1,160 @@
+{:blocks (
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/properties 
+{}
+:block/uuid #uuid "6466a2ed-afb2-4658-9784-89c1881b6c7d"} 
+{:block/content "Make a Simple Africa map for journal article"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a301-a415-48e4-84a6-57202cd022f0"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a2fe-6e1e-4d9d-98b3-3907de91e9d3"} 
+{:block/content "Sign up to GitHub, fork the repo and add changes or recommendations to the Handbook cartography guideline"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a2fe-6e1e-4d9d-98b3-3907de91e9d3"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a2fe-d16a-4937-a6e0-bc0978383737"} 
+{:block/content "Contribute to OSM and HOT tasks"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a2fe-d16a-4937-a6e0-bc0978383737"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a2fe-4697-496f-8549-6a4288bbc948"} 
+{:block/content "Tasks for the first two weeks:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-2b08-4f56-8a2c-1cb125b3216b"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a301-be8e-4c8c-b609-2c4057aa23e8"} 
+{:block/content "Make a Simple Africa map for journal article"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a301-be8e-4c8c-b609-2c4057aa23e8"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a301-a843-492c-8655-b845eed4e42c"} 
+{:block/content "Sign up to GitHub, fork the repo and add changes or recommendations to the Handbook cartography guideline"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a301-a843-492c-8655-b845eed4e42c"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a301-0367-47ea-b5ee-0c3d7fae2f7b"} 
+{:block/content "Contribute to OSM and HOT tasks"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a301-0367-47ea-b5ee-0c3d7fae2f7b"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a301-a415-48e4-84a6-57202cd022f0"} 
+{:block/content "Tasks for the first two weeks:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-4300-4231-840d-c84994da8a64"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-7dab-431f-a443-72fa7b2409bf"} 
+{:block/content "Make a Simple Africa map for journal article"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-7dab-431f-a443-72fa7b2409bf"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-31dc-4276-bda1-476a8750f6e3"} 
+{:block/content "Sign up to GitHub, fork the repo and add changes or recommendations to the Handbook cartography guideline"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-31dc-4276-bda1-476a8750f6e3"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-ea06-47c4-bb80-66a530de2e7f"} 
+{:block/content "Contribute to OSM and HOT tasks"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-ea06-47c4-bb80-66a530de2e7f"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-2b08-4f56-8a2c-1cb125b3216b"} 
+{:block/content "Tasks for the first two weeks:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a304-c98b-4d33-ac5b-2c69039697f1"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-4759-4d00-b487-1790fc6cacb2"} 
+{:block/content "Make a Simple Africa map for journal article"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-4759-4d00-b487-1790fc6cacb2"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-3832-41dc-92cf-67d85421ebc4"} 
+{:block/content "Sign up to GitHub, fork the repo and add changes or recommendations to the Handbook cartography guideline"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-3832-41dc-92cf-67d85421ebc4"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-c0da-4f95-ac6d-b1be7ebec209"} 
+{:block/content "Contribute to OSM and HOT tasks"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a302-c0da-4f95-ac6d-b1be7ebec209"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a302-4300-4231-840d-c84994da8a64"} 
+{:block/content "Tasks for the first two weeks:"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a2ed-afb2-4658-9784-89c1881b6c7d"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a304-9526-402b-b0e3-5bffc32a3f20"} 
+{:block/content "Make a Simple Africa map for journal article"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a304-9526-402b-b0e3-5bffc32a3f20"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a304-b7f2-4b9e-b8c2-67e437b91bc8"} 
+{:block/content "Sign up to GitHub, fork the repo and add changes or recommendations to the Handbook cartography guideline"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a304-b7f2-4b9e-b8c2-67e437b91bc8"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a304-460a-4659-a25d-51fd9e826c29"} 
+{:block/content "Contribute to OSM and HOT tasks"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6466a304-460a-4659-a25d-51fd9e826c29"}
+:block/parent 
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"}
+:block/uuid #uuid "6466a304-c98b-4d33-ac5b-2c69039697f1"})
+:pages (
+{:block/uuid #uuid "6466a2db-1f18-43c3-9d97-7550bb328ebf"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6466a2db-1f18-43c3-9d97-7550bb328ebf"
+:name "week one and two"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ()}}
+:block/updated-at 1684448217661
+:block/created-at 1684447963544
+:block/type "whiteboard"
+:block/name "week one and two"
+:block/original-name "week one and two"})}
